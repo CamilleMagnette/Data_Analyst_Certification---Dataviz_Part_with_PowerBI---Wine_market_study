@@ -1,6 +1,6 @@
 # 🍷 Wine market study with Python&PowerBI 
 
-### ⭐ Analyse réalisée pour passer la certification de Data Analyst (partie dataviz)
+### Analyse réalisée pour passer la certification de Data Analyst (partie dataviz)
 
 ## 🎯 Objectif :
 
@@ -21,8 +21,12 @@ Python avec google colab & PowerBI
 
 1) Exploration et nettoyage des données avec les librairies Python (Pandas, Matplolib, Seaborn, Plotly Express, nltk)
 
+[💡 LIEN NOTEBOOK 💡](https://github.com/CamilleMagnette/Wine_market_study_with_Python-PowerBI/blob/main/Notebook%20analyse%20exploratoire%20Python.ipynb)
+
+
 2) Visualisation des données avec Power BI 
 
 3) Synthèse et recommandations
 
-### [🎤🎤 **LIEN PRESENTATION** 🎤🎤](https://drive.google.com/file/d/1wu7nWQQCO0wnxYxsHzyp4reMsqweQPM0/view?usp=sharing)
+[🎤 **LIEN PRESENTATION** 🎤](https://github.com/CamilleMagnette/Wine_market_study_with_Python-PowerBI/blob/main/Etude_de_marche_vin_github.pdf)
+
